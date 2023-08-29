@@ -4,7 +4,7 @@
 <p align="center">
   <a href="">Website</a> •
   <a href="https://twitter.com/qdec_dev">Twitter</a> •
-  <a href="https://www.linkedin.com/in/quentin-decoopman-23562a229">Linkedin</a>
+  <a href="https://www.linkedin.com/in/quentin-decoopman-23562a229">Linkedin</a> •
    <a href="https://gitlab.com/qdec.dev">Gitlab</a> •
 </p>
 
