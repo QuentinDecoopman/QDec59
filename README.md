@@ -23,8 +23,6 @@
 </p>
 
 
-
-- 👀 I’m interested in Music
 - 🌱 I’m currently learning Nextjs, Python
 
 
