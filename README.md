@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from France</h3>
 
 <p align="center">
-  <a href="">Website</a> •
+  <a href="https://quentindecoopman.netlify.app/">Portfolio</a> •
   <a href="https://twitter.com/qdec_dev">Twitter</a> •
   <a href="https://www.linkedin.com/in/quentin-decoopman-23562a229">Linkedin</a> •
    <a href="https://gitlab.com/qdec.dev">Gitlab</a> 
@@ -24,6 +24,7 @@
 
 
 - 🌱 I’m currently learning Nextjs, Python
+- 🎶 Listen symphonic métal music
 
 
 <!---
