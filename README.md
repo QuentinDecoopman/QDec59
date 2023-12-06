@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate fullstack developer from France</h3>
 
 <p align="center">
   <a href="https://quentindecoopman.netlify.app/">Portfolio</a> •
@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/quentin-decoopman-23562a229">Linkedin</a> •
    <a href="https://gitlab.com/qdec.dev">Gitlab</a> 
 </p>
+
+## About me
+- 🎶 Listen symphonic métal music
 
 ## My Skills
 
@@ -18,8 +21,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinDecoopman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-- 🌱 I’m currently learning Nextjs, Python
-- 🎶 Listen symphonic métal music
+
+
 
 
 <!---
